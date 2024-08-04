@@ -9,7 +9,7 @@
   
       • Programming Languages: Python, SQL, Advanced Excel
       
-      • Data Visualization: Tableau, Power BI, Excel Charts
+      • Data Visualization: Power BI, Excel Charts
       
       • Databases: MySQL
       

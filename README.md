@@ -5,7 +5,13 @@
 
 - 🌱 I’m currently learning **MERN.**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Python, Django, ReactJS**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Python, Django,
+• Programming Languages: Python, SQL, Advanced Excel
+• Data Visualization: Tableau, Power BI, Excel Charts
+• Databases: MySQL
+• Front-End Development: HTML, CSS, Bootstrap, JavaScript
+• Frameworks: Django
+• Version Control: GitHub **
 
 - 📫 How to reach me **purushotamsingh501@gmail.com**
 

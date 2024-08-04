@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purushotam Kumar Singh</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <immg align="right" alt="coding" width="400" scr="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **purushotamsingh501@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18NN71A5mQ6Vb57T5oo_JMX_EaqQbzvaY/view?usp=sharing](https://drive.google.com/file/d/18NN71A5mQ6Vb57T5oo_JMX_EaqQbzvaY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18NN71A5mQ6Vb57T5oo_JMX_EaqQbzvaY/view?usp=sharing](https://drive.google.com/file/d/1--azH_blw0ZmWu5GUdo0C_4nTOlASHCB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

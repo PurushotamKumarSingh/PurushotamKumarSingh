@@ -32,10 +32,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/excel/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="40" height="40"/>
 </a>
-<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
+<a href="https://www.tutorialspoint.com/power_bi/index.htm" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" width="40" height="40"/>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 

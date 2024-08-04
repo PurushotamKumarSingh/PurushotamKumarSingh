@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **MERN.**
 
 - 💬 Ask me about
-- 
+  
       • Programming Languages: Python, SQL, Advanced Excel
       
       • Data Visualization: Tableau, Power BI, Excel Charts

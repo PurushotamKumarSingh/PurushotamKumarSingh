@@ -5,18 +5,19 @@
 
 - 🌱 I’m currently learning **MERN.**
 
-- 💬 Ask me about **
-• Programming Languages: Python, SQL, Advanced Excel
-
-• Data Visualization: Tableau, Power BI, Excel Charts
-
-• Databases: MySQL
-
-• Front-End Development: HTML, CSS, Bootstrap, JavaScript
-
-• Frameworks: Django
-
-• Version Control: GitHub **
+- 💬 Ask me about
+- 
+      • Programming Languages: Python, SQL, Advanced Excel
+      
+      • Data Visualization: Tableau, Power BI, Excel Charts
+      
+      • Databases: MySQL
+      
+      • Front-End Development: HTML, CSS, Bootstrap, JavaScript
+      
+      • Frameworks: Django
+      
+      • Version Control: GitHub 
 
 - 📫 How to reach me **purushotamsingh501@gmail.com**
 

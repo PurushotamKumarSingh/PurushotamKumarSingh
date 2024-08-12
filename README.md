@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **purushotamsingh501@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18NN71A5mQ6Vb57T5oo_JMX_EaqQbzvaY/view?usp=sharing](https://drive.google.com/file/d/1ZUlsFLtyw0zbxQjbOo30MrMG5wrBS_F7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18NN71A5mQ6Vb57T5oo_JMX_EaqQbzvaY/view?usp=sharing](7/view?usp=sharing](https://drive.google.com/file/d/1YjrSa71IPfYFKv8R-B0UvUdRzng2q5gB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
